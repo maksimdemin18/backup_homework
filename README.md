@@ -136,7 +136,7 @@ pg_restore -d dbname filename
 
 Да. Самая базовая автоматизация:
 
-Скрипт (bash), который:
+Скрипт [bash](manager_db.sh), который:
 
 запускает pg_dump,
 
